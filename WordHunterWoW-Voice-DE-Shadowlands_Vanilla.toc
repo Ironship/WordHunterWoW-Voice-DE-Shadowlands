@@ -1,9 +1,0 @@
-## Interface: 11509
-## Title: QuestWordHunter - German Voiceover: Shadowlands
-## Notes: German quest audio for Shadowlands. Needs WordHunterWoW-Voice-DE.
-## IconTexture: Interface\AddOns\WordHunterWoW-Voice-DE-Shadowlands\icon
-## Author: Ironship
-## Version: 1.0.2
-## Dependencies: WordHunterWoW-Voice-DE
-
-Part.lua
