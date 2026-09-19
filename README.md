@@ -7,9 +7,6 @@ The German a quest giver says out loud, for Shadowlands: quest ids
 `Part.lua` — the table the engine plays from — so they are what the pack can
 actually be asked for, not what happens to sit on disk.
 
-This expansion is **still being read**, so both numbers are a snapshot taken
-when this commit was made and will grow.
-
 One clip per sentence, across the three passages an NPC speaks: the offer, the
 progress line and the hand-in. Quest titles and objectives are not here. Nobody
 says them out loud; they are read off the screen.
